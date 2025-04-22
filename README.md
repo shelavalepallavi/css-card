@@ -20,6 +20,8 @@ This is a simple and responsive card UI component built using **HTML** and **CSS
 hover-cards/
 ├── index.html
 ├── style.css
+└── home.png
+└── favicon.png
 └── README.md
 ```
 
@@ -36,7 +38,7 @@ cd css-cards
 Open index.html in your browser:
 
 ```
-open index.html\
+open index.html
 ```
 
 Or use Live Server in VS Code for a better dev experience.

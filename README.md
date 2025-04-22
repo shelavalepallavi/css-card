@@ -11,7 +11,7 @@ This is a simple and responsive card UI component built using **HTML** and **CSS
 
 ## 📸 Demo
 
-![Hover Reveal Cards Demo](demo.gif) <!-- Replace with your actual demo gif/image -->
+![Hover Reveal Cards Demo](home.png) <!-- Replace with your actual demo gif/image -->
 
 ## 🚀 Getting Started
 

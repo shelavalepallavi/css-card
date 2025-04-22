@@ -35,8 +35,10 @@ cd css-cards
 
 Open index.html in your browser:
 
+```
+open index.html\
+```
 
-open index.html
 Or use Live Server in VS Code for a better dev experience.
 
 📱 Responsive Design

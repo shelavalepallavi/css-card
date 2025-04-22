@@ -23,22 +23,19 @@ hover-cards/
 └── README.md
 ```
 
-bash
-Copy
-Edit
 
 ### 📦 Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hover-cards.git
-cd hover-cards
+git clone https://github.com/shelavalepallavi/css-cards.git
+cd css-cards
+```
+
 Open index.html in your browser:
 
-bash
-Copy
-Edit
+
 open index.html
 Or use Live Server in VS Code for a better dev experience.
 

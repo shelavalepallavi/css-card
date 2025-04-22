@@ -1,4 +1,4 @@
-# ✨ Hover Reveal Cards – HTML & CSS
+# ✨  HTML & CSS Card
 
 This is a simple and responsive card UI component built using **HTML** and **CSS**. When you hover over each card, it smoothly reveals hidden content with animation.
 
@@ -7,17 +7,21 @@ This is a simple and responsive card UI component built using **HTML** and **CSS
 - Responsive card layout  
 - Hover animation to reveal hidden content  
 - Clean and modern UI  
-- Pure HTML & CSS (No JavaScript)
+- Pure HTML & CSS 
 
 ## 📸 Demo
 
-![Hover Reveal Cards Demo](home.png) <!-- Replace with your actual demo gif/image -->
+![Hover Reveal Cards Demo](home.png) 
 
 ## 🚀 Getting Started
 
-### 📁 Folder Structure
-
-hover-cards/ ├── index.html ├── style.css └── README.md
+📁 Folder Structure
+```
+hover-cards/
+├── index.html
+├── style.css
+└── README.md
+```
 
 bash
 Copy
